@@ -66,36 +66,6 @@
 
 ---
 
-## 🏆 Achievements
-
-<!-- STATIC — always visible, no GitHub data needed -->
-
-| 🥇 | Achievement | Level |
-|---|---|---|
-| 🐍 | **Multi-Language Developer** | Python · C++ · Java · JS · Dart |
-| 🤖 | **ML Practitioner** | PyTorch · NumPy · SciPy |
-| 📱 | **Mobile Developer** | Flutter & Dart |
-| 🎨 | **UI/UX Designer** | Figma · Canva |
-| 🗄️ | **Database Engineer** | MySQL |
-| 🌐 | **Full Stack Builder** | TailwindCSS · JavaScript |
-
----
-
-## 🔝 Featured Projects
-
-<!-- STATIC — replace descriptions with your real project details -->
-
-| Project | Tech | Description |
-|---|---|---|
-| 🤖 **ML Model** | `Python` `PyTorch` | Deep learning model for classification |
-| 📱 **Flutter App** | `Flutter` `Dart` | Cross-platform mobile application |
-| 🌐 **Web Project** | `JavaScript` `TailwindCSS` | Responsive web interface |
-| 🗄️ **DB System** | `MySQL` `C++` | Database management system |
-
-> 💡 *Replace the project names and descriptions above with your actual projects!*
-
----
-
 ## ✍️ Dev Quote
 
 <div align="center">
