@@ -2,6 +2,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:052e16,50:16a34a,100:4ade80&height=200&section=header&text=Anjali%20Tripathi&fontSize=52&fontColor=dcfce7&fontAlignY=38&desc=Full%20Stack%20Dev%20%C2%B7%20AI%20%2F%20ML%20Enthusiast&descAlignY=58&descColor=86efac&animation=fadeIn)
 
+</div>
+
+<div align="center">
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/anjali.t_763/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjali-tripathi-0b5097278)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tripathianjali760@gmail.com)
@@ -83,8 +87,14 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anjali-0404&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=4ade80&text_color=dcfce7&icon_color=22c55e" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=anjali-0404&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=4ade80&text_color=dcfce7&icon_color=22c55e&show_icons=true" width="49%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjali-0404&theme=dark&hide_border=true&layout=compact&bg_color=0d1117&title_color=4ade80&text_color=dcfce7" width="49%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anjali-0404&bg_color=0d1117&color=4ade80&line=22c55e&point=86efac&area=true&hide_border=true" width="100%"/>
 
 </div>
 
