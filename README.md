@@ -67,13 +67,7 @@
 
 ---
 
-## 🏆 GitHub Performance (A++)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Performance-A++-00ff88?style=for-the-badge&logo=github&logoColor=black"/>
-</p>
-
----
 
 ## 📊 GitHub Stats
 
