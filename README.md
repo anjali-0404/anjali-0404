@@ -25,8 +25,6 @@
 
 ---
 
-## 🔥 Contribution Streak <div align="center"> <img src="https://nirzak-streak-stats.vercel.app/?user=anjali-0404&theme=dark&hide_border=true&background=0d1117&ring=22c55e&fire=4ade80&currStreakLabel=86efac&sideLabels=86efac&currStreakNum=dcfce7&sideNums=dcfce7&dates=6e7681&stroke=16a34a" width="100%"/> </div>
-
 ---
 ## 🔥 Contribution Streak
 
@@ -77,19 +75,9 @@
 
 ---
 
-## 📊 GitHub Stats 
+## 📊 GitHub Stats
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anjali-0404&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ff88&text_color=e6ffee&icon_color=00ff88&show_icons=true&ring_color=00ff88" width="49%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjali-0404&theme=dark&hide_border=true&layout=compact&bg_color=0d1117&title_color=00ff88&text_color=e6ffee&langs_count=8" width="49%"/> </div>
-
-## ⚡ Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anjali-0404&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
 
 ## 🔥 Contribution Streak
 
