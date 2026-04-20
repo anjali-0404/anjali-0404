@@ -38,15 +38,11 @@
 </div>
 
 ---
-
 ## 🔥 Contribution Streak
 
-<div align="center">
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=anjali-0404&theme=dark&hide_border=true&background=0d1117&ring=22c55e&fire=4ade80&currStreakLabel=86efac&sideLabels=86efac&currStreakNum=dcfce7&sideNums=dcfce7&dates=6e7681&stroke=16a34a" width="100%"/>
-
-</div>
-
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=anjali-0404&theme=dark&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=00ff88&currStreakNum=ffffff&sideNums=ffffff&dates=6e7681&stroke=00ff88"/>
+</p>
 ---
 
 ## 💻 Tech Stack
