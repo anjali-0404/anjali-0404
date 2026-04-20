@@ -77,22 +77,9 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats 
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=anjali-0404&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ff88&text_color=e6ffee&icon_color=00ff88&show_icons=true&hide_rank=true" width="49%"/>
-
-<img src="https://img.shields.io/badge/A++-Performance-00ff88?style=for-the-badge&logo=github&logoColor=black" width="49%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjali-0404&theme=dark&hide_border=true&layout=compact&bg_color=0d1117&title_color=00ff88&text_color=e6ffee&langs_count=8" width="49%"/>
-
-</div>
----
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anjali-0404&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ff88&text_color=e6ffee&icon_color=00ff88&show_icons=true&ring_color=00ff88" width="49%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjali-0404&theme=dark&hide_border=true&layout=compact&bg_color=0d1117&title_color=00ff88&text_color=e6ffee&langs_count=8" width="49%"/> </div>
 
 ## ⚡ Contribution Activity
 
