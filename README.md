@@ -25,17 +25,7 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anjali-0404/anjali-0404/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anjali-0404/anjali-0404/output/github-contribution-grid-snake.svg" />
-  <img alt="🐍 contribution snake" src="https://raw.githubusercontent.com/anjali-0404/anjali-0404/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
-
-</div>
+## 🔥 Contribution Streak <div align="center"> <img src="https://nirzak-streak-stats.vercel.app/?user=anjali-0404&theme=dark&hide_border=true&background=0d1117&ring=22c55e&fire=4ade80&currStreakLabel=86efac&sideLabels=86efac&currStreakNum=dcfce7&sideNums=dcfce7&dates=6e7681&stroke=16a34a" width="100%"/> </div>
 
 ---
 ## 🔥 Contribution Streak
@@ -79,20 +69,55 @@
 
 ---
 
+## 🏆 GitHub Performance (A++)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Performance-A++-00ff88?style=for-the-badge&logo=github&logoColor=black"/>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anjali-0404&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=4ade80&text_color=dcfce7&icon_color=22c55e&show_icons=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjali-0404&theme=dark&hide_border=true&layout=compact&bg_color=0d1117&title_color=4ade80&text_color=dcfce7" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=anjali-0404&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ff88&text_color=e6ffee&icon_color=00ff88&show_icons=true&ring_color=00ff88" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjali-0404&theme=dark&hide_border=true&layout=compact&bg_color=0d1117&title_color=00ff88&text_color=e6ffee&langs_count=8" width="49%"/>
 
 </div>
+
+---
+
+## ⚡ Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anjali-0404&bg_color=0d1117&color=4ade80&line=22c55e&point=86efac&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anjali-0404&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 </div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=anjali-0404&theme=dark&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=00ff88&currStreakNum=ffffff&sideNums=ffffff&dates=6e7681&stroke=00ff88" width="100%"/>
+
+</div>
+
+---
+
+## ✨ Developer Status
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Anjali+Tripathi+%7C+A%2B%2B+Performer;Open+Source+Contributor;Consistency+%3D+Growth+🚀" />
+</p>
+
+---
+
+> 💡 *Consistently building, contributing, and improving every day.*
 
 ---
 
