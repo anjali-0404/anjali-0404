@@ -25,14 +25,6 @@
 
 ---
 
----
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=anjali-0404&theme=dark&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=00ff88&currStreakNum=ffffff&sideNums=ffffff&dates=6e7681&stroke=00ff88"/>
-</p>
----
-
 ## 💻 Tech Stack
 
 **Languages**
@@ -67,17 +59,36 @@
 
 ---
 
-
-
 ## 📊 GitHub Stats
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anjali-0404&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ff88&text_color=e6ffee&icon_color=00ff88&show_icons=true&ring_color=00ff88" width="49%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjali-0404&theme=dark&hide_border=true&layout=compact&bg_color=0d1117&title_color=00ff88&text_color=e6ffee&langs_count=8" width="49%"/> </div>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=anjali-0404&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjali-0404&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8" width="49%"/>
+
+</div>
+
+---
 
 ## 🔥 Contribution Streak
 
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=anjali-0404&theme=dark&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=00ff88&currStreakNum=ffffff&sideNums=ffffff&dates=6e7681&stroke=00ff88" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=anjali-0404&theme=dark&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&sideLabels=00FF88&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6E7681&stroke=00FF88" width="70%"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anjali-0404/anjali-0404/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anjali-0404/anjali-0404/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/anjali-0404/anjali-0404/output/github-snake-dark.svg" />
+</picture>
 
 </div>
 
@@ -86,7 +97,7 @@
 ## ✨ Developer Status
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Anjali+Tripathi;Open+Source+Contributor;Consistency+%3D+Growth+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Anjali+Tripathi;Full+Stack+Developer;AI+%2F+ML+Enthusiast;Open+Source+Contributor;Consistency+%3D+Growth+🚀" />
 </p>
 
 ---
