@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:052e16,50:16a34a,100:4ade80&height=200&section=header&text=Anjali%20Tripathi&fontSize=52&fontColor=dcfce7&fontAlignY=38&desc=Full%20Stack%20Dev%20%C2%B7%20AI%20%2F%20ML%20Enthusiast&descAlignY=58&descColor=86efac&animation=fadeIn)
 
 </div>
-
+m
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/anjali.t_763/)
