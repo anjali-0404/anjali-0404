@@ -16,16 +16,6 @@
 
 <br/>
 
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║   🚀  37,438 Contributions · 10+ PRs Merged · 33-Day Streak 🔥  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
 ---
 
 ## 💫 About Me
@@ -38,7 +28,7 @@
 - 👯 Looking to collaborate on **AI/ML + Web Projects**
 - 💬 Ask me about **React, Next.js, Python, SQL, OpenCV, or ML**
 - 📫 Reach me: **tripathianjali760@gmail.com**
-- ⚡ Fun fact: **37,438 contributions and still counting ☕🚀**
+- ⚡ Fun fact: **I turn coffee into code and ideas into products ☕🚀**
 
 ---
 
@@ -144,7 +134,6 @@
 
 | 🏅 | Achievement |
 |---|---|
-| 🔥 | **37,438 GitHub Contributions** — consistent daily builder |
 | 🔀 | **10+ Pull Requests Merged** — active open source contributor |
 | 📅 | **33-Day Longest Streak** — unbreakable consistency |
 | 🎯 | **SSIP Project Grantee** — Government-funded innovation grant |
@@ -158,26 +147,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=anjali-0404&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjali-0404&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6" width="49%"/>
-
-</div>
-
 ---
-
-## 📈 Contribution Stats
-
-<div align="center">
-
-| 🔥 Total Contributions | 🔀 PRs Merged | 📅 Longest Streak | ⭐ Top Languages |
-|:---:|:---:|:---:|:---:|
-| **37,438** | **10+** | **33 Days** | Python · SQL · Next.js · React |
-
-</div>
 
 ---
 
@@ -208,12 +178,12 @@
 ## ✨ Developer Status
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=9333EA&center=true&vCenter=true&width=750&lines=Anjali+Tripathi+%F0%9F%91%8B;AI%2FML+Developer+%7C+Full+Stack+Dev;37%2C438+Contributions+%F0%9F%94%A5;SSIP+Grantee+%7C+She+Builds+Finalist;Open+Source+Contributor+%F0%9F%8C%B8;Building+AI+%2B+Web+for+Real+Impact;Turning+ideas+into+products+%E2%98%95%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=9333EA&center=true&vCenter=true&width=750&lines=Anjali+Tripathi+%F0%9F%91%8B;AI%2FML+Developer+%7C+Full+Stack+Dev;SSIP+Grantee+%7C+She+Builds+Finalist;Open+Source+Contributor+%F0%9F%8C%B8;Building+AI+%2B+Web+for+Real+Impact;Turning+ideas+into+products+%E2%98%95%F0%9F%9A%80" />
 </p>
 
 ---
 
-> 💡 *37,438 contributions and still going — consistency is the real superpower.*
+> 💡 *Consistently building, contributing, and innovating every single day.*
 
 ---
 
