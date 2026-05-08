@@ -19,9 +19,9 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║   🚀  Building at the intersection of AI & the Web  🚀      ║
-╚══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════╗
+║   🚀  37,438 Contributions · 10+ PRs Merged · 33-Day Streak 🔥  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -36,9 +36,9 @@
 - 🏆 **SSIP Project Grantee** · **She Builds Finalist** · Hackathon Achiever
 - 💼 Experience at **Tech Elecon Pvt Ltd** · **Flaunch AI & XR** · **GSSoC Contributor**
 - 👯 Looking to collaborate on **AI/ML + Web Projects**
-- 💬 Ask me about **React, Python, OpenCV, ML, or UI/UX Design**
+- 💬 Ask me about **React, Next.js, Python, SQL, OpenCV, or ML**
 - 📫 Reach me: **tripathianjali760@gmail.com**
-- ⚡ Fun fact: **I turn coffee into code and ideas into products ☕🚀**
+- ⚡ Fun fact: **37,438 contributions and still counting ☕🚀**
 
 ---
 
@@ -62,11 +62,17 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-**Languages & Tools**
+**Database & Languages**
 
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Tools & Design**
+
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -90,8 +96,6 @@
 ---
 
 ## 🚀 Featured Projects
-
-<br/>
 
 ### 🏠 RoomMateMatch
 > A smart platform to help users find compatible roommates based on preferences, lifestyle, and location filters. Built for modern urban living.
@@ -140,9 +144,12 @@
 
 | 🏅 | Achievement |
 |---|---|
-| 🎯 | **SSIP Project Grantee** — Government-funded innovation project grant |
+| 🔥 | **37,438 GitHub Contributions** — consistent daily builder |
+| 🔀 | **10+ Pull Requests Merged** — active open source contributor |
+| 📅 | **33-Day Longest Streak** — unbreakable consistency |
+| 🎯 | **SSIP Project Grantee** — Government-funded innovation grant |
 | 🏆 | **She Builds Finalist** — Women in tech innovation competition |
-| 💻 | **Hackathon Achiever** — Multiple hackathon wins & recognitions |
+| 💻 | **Hackathon Achiever** — Multiple wins & recognitions |
 | 🌸 | **GSSoC Open Source Contributor** |
 | 🤖 | **Generative AI Certification** |
 | ☁️ | **Google Solution Challenge Participant** |
@@ -156,7 +163,19 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=anjali-0404&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjali-0404&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjali-0404&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6" width="49%"/>
+
+</div>
+
+---
+
+## 📈 Contribution Stats
+
+<div align="center">
+
+| 🔥 Total Contributions | 🔀 PRs Merged | 📅 Longest Streak | ⭐ Top Languages |
+|:---:|:---:|:---:|:---:|
+| **37,438** | **10+** | **33 Days** | Python · SQL · Next.js · React |
 
 </div>
 
@@ -189,12 +208,12 @@
 ## ✨ Developer Status
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=9333EA&center=true&vCenter=true&width=750&lines=Anjali+Tripathi+%F0%9F%91%8B;AI%2FML+Developer+%7C+Full+Stack+Dev;SSIP+Grantee+%7C+She+Builds+Finalist;Open+Source+Contributor+%F0%9F%8C%B8;Building+AI+%2B+Web+for+Real+Impact;Turning+ideas+into+products+%E2%98%95%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=9333EA&center=true&vCenter=true&width=750&lines=Anjali+Tripathi+%F0%9F%91%8B;AI%2FML+Developer+%7C+Full+Stack+Dev;37%2C438+Contributions+%F0%9F%94%A5;SSIP+Grantee+%7C+She+Builds+Finalist;Open+Source+Contributor+%F0%9F%8C%B8;Building+AI+%2B+Web+for+Real+Impact;Turning+ideas+into+products+%E2%98%95%F0%9F%9A%80" />
 </p>
 
 ---
 
-> 💡 *Consistently building, contributing, and innovating every single day.*
+> 💡 *37,438 contributions and still going — consistency is the real superpower.*
 
 ---
 
