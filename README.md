@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Anjali%20Tripathi&fontSize=52&fontColor=e0d7ff&fontAlignY=38&desc=AI%2FML%20Developer%20%C2%B7%20Full%20Stack%20Dev%20%C2%B7%20Tech%20Innovator&descAlignY=58&descColor=b8a9ff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Anjali%20Tripathi&fontSize=56&fontColor=e0d7ff&fontAlignY=38&desc=AI%2FML%20Developer%20%C2%B7%20Full%20Stack%20Dev%20%C2%B7%20Tech%20Innovator&descAlignY=58&descColor=b8a9ff&animation=fadeIn)
 
 </div>
 
@@ -10,7 +10,19 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tripathianjali760@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anjali-0404)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/anjali.t_763/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://codewithanjali.xyz)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=todoist&logoColor=white)](https://codewithanjali.xyz)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║   🚀  Building at the intersection of AI & the Web  🚀      ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
@@ -79,39 +91,48 @@
 
 ## 🚀 Featured Projects
 
+<br/>
+
 ### 🏠 RoomMateMatch
 > A smart platform to help users find compatible roommates based on preferences, lifestyle, and location filters. Built for modern urban living.
-> [![GitHub](https://img.shields.io/badge/GitHub-RoomMateMatch-181717?style=flat-square&logo=github)](https://github.com/anjali-0404)
+
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anjali-0404/RoomMateMatch)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://room-mate-match-izrf.vercel.app/)
 
 ---
 
 ### 📹 Smart Surveillance System
 > AI-powered surveillance using **OpenCV & Machine Learning** for real-time person/object detection, motion tracking, and anomaly alerts.
-> [![GitHub](https://img.shields.io/badge/GitHub-SmartSurveillance-181717?style=flat-square&logo=github)](https://github.com/anjali-0404)
+
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anjali-0404/smartsurveillance)
 
 ---
 
 ### 🔒 File Encryption Tool
 > A Python-based secure file encryption/decryption tool that ensures data privacy using modern cryptographic algorithms. Lightweight and easy to use.
-> [![GitHub](https://img.shields.io/badge/GitHub-FileEncryptionTool-181717?style=flat-square&logo=github)](https://github.com/anjali-0404)
+
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anjali-0404/fileencrypt)
 
 ---
 
 ### 💸 Expense Tracker
 > A clean, intuitive web app to log daily expenses, visualize spending patterns with charts, and manage monthly budgets efficiently.
-> [![GitHub](https://img.shields.io/badge/GitHub-ExpenseTracker-181717?style=flat-square&logo=github)](https://github.com/anjali-0404)
+
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anjali-0404/expense-tracker)
 
 ---
 
 ### 🤖 AI Resume Builder
 > An AI-powered resume builder that generates tailored, ATS-optimized resumes using user inputs and NLP — helping candidates land more interviews.
-> [![GitHub](https://img.shields.io/badge/GitHub-AIResumeBuilder-181717?style=flat-square&logo=github)](https://github.com/anjali-0404)
+
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anjali-0404)
 
 ---
 
 ### 🧠 Image Recognition Chatbot
 > A multimodal chatbot combining **computer vision + conversational AI** to give context-aware responses based on what it sees in uploaded images.
-> [![GitHub](https://img.shields.io/badge/GitHub-ImageRecognitionChatbot-181717?style=flat-square&logo=github)](https://github.com/anjali-0404)
+
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anjali-0404)
 
 ---
 
