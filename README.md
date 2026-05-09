@@ -145,11 +145,6 @@
 | 📊 | **Data Science Internship Certification** |
 | 🐍 | **Python Programming Certification** |
 
----
-
----
-
----
 
 ## 🔥 Contribution Streak
 
