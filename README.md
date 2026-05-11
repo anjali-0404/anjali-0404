@@ -2,7 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Anjali%20Tripathi&fontSize=56&fontColor=e0d7ff&fontAlignY=38&desc=AI%2FML%20Developer%20%C2%B7%20Full%20Stack%20Dev%20%C2%B7%20Tech%20Innovator&descAlignY=58&descColor=b8a9ff&animation=fadeIn)
 </div>
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjali-tripathi-0b5097278)
