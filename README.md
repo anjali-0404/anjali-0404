@@ -15,7 +15,6 @@
 <br/>
 
 ---
-
 ## 💫 About Me
 
 - 🎓 **Full Stack & AI/ML Developer** — building impactful digital solutions
