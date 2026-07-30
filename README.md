@@ -166,7 +166,6 @@
 </div>
 
 ---
-
 ## ✨ Developer Status
 
 <p align="center">
